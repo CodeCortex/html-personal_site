@@ -1,0 +1,35 @@
+/* .top_container{
+    height: 200px;
+    width:200px;
+    background-color: red;
+    border: 5px solid black;
+    
+
+}
+
+.middle_container{
+    height: 200px;
+    width:200px;
+    background-color: green;
+    margin-left: 209px;
+    border:2px solid black;
+}
+
+.bottom_container{
+    height: 200px;
+    width:200px;
+    background-color: yellow;
+    margin-left: 412px;
+    border:1px solid black;
+    
+} */
+
+.navimage{
+    float:left;
+}
+
+.work_experience{
+    font-family: 'Montserrat', sans-serif;
+/* font-family: 'Ubuntu', sans-serif; */
+}
+
